@@ -22,21 +22,15 @@ All'interno della pagina è possibile distringuere 6 sezioni:
 
 ## Shortfilms Section
 
-
-<a href="https://ibb.co/rdLwFVw"><img src="https://i.ibb.co/wcbzBfz/videobox-shortfilms.gif" alt="videobox-shortfilms" border="0"></a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Graphic Area
-
-<a href="https://ibb.co/gT0nyj1"><img src="https://i.ibb.co/jMCph6K/20231129-235336.gif" alt="20231129-235336" border="0"></a>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Open Graph:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Links progetto:
-- Live Demo: https://portfoliowebsite-s2i.netlify.app
 - Repo GitHub: https://github.com/StefanoRimoldi/Progetto-Website-Start2Impact.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
